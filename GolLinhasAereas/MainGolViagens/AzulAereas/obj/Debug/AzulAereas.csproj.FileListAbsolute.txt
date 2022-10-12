@@ -1,0 +1,10 @@
+C:\Users\alunocmc\source\repos\AzulAereas\AzulAereas\bin\Debug\AzulAereas.exe.config
+C:\Users\alunocmc\source\repos\AzulAereas\AzulAereas\bin\Debug\AzulAereas.exe
+C:\Users\alunocmc\source\repos\AzulAereas\AzulAereas\bin\Debug\AzulAereas.pdb
+C:\Users\alunocmc\source\repos\AzulAereas\AzulAereas\obj\Debug\AzulAereas.csproj.AssemblyReference.cache
+C:\Users\alunocmc\source\repos\AzulAereas\AzulAereas\obj\Debug\AzulAereas.AzulSplash.resources
+C:\Users\alunocmc\source\repos\AzulAereas\AzulAereas\obj\Debug\AzulAereas.Properties.Resources.resources
+C:\Users\alunocmc\source\repos\AzulAereas\AzulAereas\obj\Debug\AzulAereas.csproj.GenerateResource.cache
+C:\Users\alunocmc\source\repos\AzulAereas\AzulAereas\obj\Debug\AzulAereas.csproj.CoreCompileInputs.cache
+C:\Users\alunocmc\source\repos\AzulAereas\AzulAereas\obj\Debug\AzulAereas.exe
+C:\Users\alunocmc\source\repos\AzulAereas\AzulAereas\obj\Debug\AzulAereas.pdb
